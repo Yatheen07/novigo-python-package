@@ -1,0 +1,8 @@
+README.md
+setup.py
+novigo/__init__.py
+novigo.egg-info/PKG-INFO
+novigo.egg-info/SOURCES.txt
+novigo.egg-info/dependency_links.txt
+novigo.egg-info/requires.txt
+novigo.egg-info/top_level.txt
